@@ -1,3 +1,11 @@
+# Clone this repository
+git clone https://github.com/ar-qun/electron-quick-start
+# Go into the repository
+cd electron-quick-start
+# Install dependencies and run the app
+npm install && npm start
+
+
 # electron-quick-start
 
 **Clone and run for a quick way to see an Electron in action.**
